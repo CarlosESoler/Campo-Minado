@@ -6,7 +6,7 @@ Aqui apliquei todos os conhecimentos aprendidos até então no curso de [Java](h
 ### Como jogar
 
 O projeto é feito todo pelo console, então, para utilizar você precisa baixar os arquivos e abrir na sua IDE.
-Para jogar, basta dar run no metodo main, localizado em: src/br/com/carlos/cm/view/main
+Para jogar, basta dar run na classe main, localizado em: src/br/com/carlos/cm/view/main
 Para alterar a quantidade de colunas, linhas e bombas, você precisa alterar na hora que chamamos o construtor da classe Tabuleiro, alterando de acordo com os parametros passados.
 Sendo linha, coluna e mina respectivamente.
 
